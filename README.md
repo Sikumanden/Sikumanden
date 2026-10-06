@@ -1,4 +1,4 @@
-# Hi there, I'm Simon Østergaard Lauritsen 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there, I'm Simon Østergaard Lauritsen ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ### 💻 Software Developer & Computer Science Student
 
@@ -13,7 +13,7 @@ I am passionate about software development, with a strong focus on crafting intu
 - 🎓 **Education:** Computer Science AP Graduate (Datamatiker) — Expected Jan 2027
 - 📍 **Location:** Ry, Denmark 🇩🇰
 - 🎨 **Focus:** Frontend Development, UI/UX Design & Full-stack Web Development
-- ✉️ **Contact:** [sl@houe.com](mailto:sl@houe.com)
+- ✉️ **Contact:** [simon.oe.lauritsen@gmail.com](mailto:simon.oe.lauritsen@gmail.com)
 
 ---
 
